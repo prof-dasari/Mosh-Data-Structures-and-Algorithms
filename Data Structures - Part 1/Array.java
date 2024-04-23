@@ -6,6 +6,8 @@ public class Array {
 
   public Array(int length) {
     items = new int[length];
+    items = new int[length];
+
   }
 
   public void insert(int item) {
